@@ -10,3 +10,7 @@
   s3927178
 
   Contribution:
+
+  Nguyen Minh Nhat: 50%
+  Vo Chau Thang: 50%
+  Lam Uy Vu: 0%
